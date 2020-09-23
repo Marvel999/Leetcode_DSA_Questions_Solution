@@ -1,10 +1,8 @@
-# Leetcode_DSA_Questions_Solution
-The repository contains solutions to various problems on the Leetcode. The code is merely a snippet (as solved on Leetcode) &amp; hence is not executable in a JAVA. The code written is purely original and completely my own.
-
-# GeeksforGeeks DS-algo. Topicwise Solutions
+# Leetcode_Solution_Topicwise
 <p align="center">
   <img src="https://miro.medium.com/max/1050/1*Lur9rrJITsFRnuIYURYkSg.jpeg">
 </p>
+The repository contains solutions to various problems on the Leetcode. The code is merely a snippet (as solved on Leetcode) &amp; hence is not executable in a JAVA. The code written is purely original and completely my own.
 
 # Leetcode-Topicwise-Solutions
 
