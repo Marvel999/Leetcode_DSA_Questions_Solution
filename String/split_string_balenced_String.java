@@ -15,8 +15,6 @@ public class split_string_balenced_String {
         int number=0;
       for(int i=0;i<s.length();i++){
           char ch=s.charAt(i);
-//          System.out.println(count);
-
            if(count==0){
                number++;
            }
