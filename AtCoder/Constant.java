@@ -7,12 +7,12 @@ public class Constant {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();
         int count=0;
+        int b=0;
+
         for(int i=1;i<n;i++){
-           int j=n-i;
-           if(i*i<n)
-               count++;
-            if(i*j<n)
-               count++;
+            b=(n-1)/i;
+            count+=b;
+
 
         }
         System.out.println(count);
