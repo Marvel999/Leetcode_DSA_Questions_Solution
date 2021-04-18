@@ -1,4 +1,4 @@
-package Codechef_Nov_Encoding;
+package CodeChef.Codechef_Nov_Encoding;
 
 import java.util.Scanner;
 

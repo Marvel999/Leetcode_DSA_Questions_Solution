@@ -1,4 +1,4 @@
-package CodeChef_Nov_Cookoff;
+package CodeChef.CodeChef_Nov_Cookoff;
 
 import java.util.Scanner;
 

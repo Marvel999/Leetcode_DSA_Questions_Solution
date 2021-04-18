@@ -51,14 +51,14 @@ public class String_palindrom_Two {
 
 
 //
-//    public static boolean validPalindrome(String s) {
+//    public static boolean validPalindrome(Leetcode.String s) {
 //
 //        int i=0;
 //        int j=s.length()-1;
 //        int coun=0;
 //        StringBuilder sb=new StringBuilder(s);
-//        String s1=s.substring(0,(sb.length()/2)+1);
-//        String s2=s.substring((sb.length()/2)+1,sb.length());
+//        Leetcode.String s1=s.substring(0,(sb.length()/2)+1);
+//        Leetcode.String s2=s.substring((sb.length()/2)+1,sb.length());
 ////        System.out.println(s1);
 ////        System.out.println(s2);
 //        while (i<=j){

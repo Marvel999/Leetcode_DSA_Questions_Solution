@@ -17,7 +17,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
 | [Array](https://github.com/Marvel999/Leetcode_DSA_Questions_Solution/tree/master/Array)|10|
-| [String](https://github.com/Marvel999/Leetcode_DSA_Questions_Solution/tree/master/Leetcode/String)|10|
+| [Leetcode.String](https://github.com/Marvel999/Leetcode_DSA_Questions_Solution/tree/master/Leetcode/String)|10|
 
 
 
