@@ -1,4 +1,8 @@
 package Leetcode.Array;
+
+import java.util.ArrayList;
+import java.util.List;
+
 //https://leetcode.com/problems/search-insert-position/
 //o(n) complexity is use
 // we can do using o(logn) complexity using binary search
