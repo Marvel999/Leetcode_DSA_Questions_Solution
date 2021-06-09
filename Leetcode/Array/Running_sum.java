@@ -1,5 +1,7 @@
 package Leetcode.Array;
 
+import java.util.Arrays;
+
 //https://leetcode.com/problems/running-sum-of-1d-array/
 public class Running_sum {
     //optimize solution
